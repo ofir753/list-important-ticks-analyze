@@ -1,0 +1,433 @@
+Tick: 212 : unq -Spinx killed unq -p1vot with a headshot using a deagle
+Tick: 212  Event: round_end 
+Tick: 816  Event: cs_pre_restart 
+Tick: 2220 : unq -Nertz_ killed unq -shp3x using a awp
+Tick: 2736 : unq -Spinx killed unq -Nertz_ with a headshot using a awp
+Tick: 4110 : NOM-GamingBluePho3nix killed NOM-Gamingkenz0o with a headshot using a m4a1
+Tick: 4150 : NOM-GamingLASTONE killed unq -p1vot with a headshot using a ak47
+Tick: 4264 : unq -LaNrefNi killed NOM-Gamingponkt with a headshot using a awp
+Tick: 4380 : NOM-GamingBluePho3nix killed NOM-GamingasYLum^ using a m4a1
+Tick: 4480 : unq -LaNrefNi killed NOM-Gamingequix- using a awp
+Tick: 7254  Event: bomb_dropped 
+Tick: 7254 : unq -LaNrefNi killed unq -Spinx with a headshot using a awp
+Tick: 7394  Event: bomb_pickup 
+Tick: 8467  Event: cs_pre_restart 
+Tick: 8505  Event: round_start 
+Tick: 8671 : unq -LaNrefNi killed  using a world
+Tick: 8917 : unq -p1vot killed  using a world
+Tick: 9145 : unq -Spinx killed  using a world
+Tick: 9145  Event: round_freeze_end 
+Tick: 9185 : unq -shp3x killed  using a world
+Tick: 11059 : unq -Nertz_ killed  using a world
+Tick: 11059  Event: round_end 
+Tick: 11659  Event: cs_pre_restart 
+Tick: 11697  Event: bomb_pickup 
+Tick: 11697  Event: round_start 
+Tick: 12337  Event: cs_pre_restart 
+Tick: 12375  Event: bomb_pickup 
+Tick: 12375  Event: round_start 
+Tick: 12466  Event: cs_pre_restart 
+Tick: 12504  Event: bomb_pickup 
+Tick: 12504  Event: round_start 
+Tick: 12980  Event: cs_pre_restart 
+Tick: 13018  Event: bomb_pickup 
+Tick: 13018  Event: round_start 
+Tick: 13571  Event: bomb_dropped 
+Tick: 13669  Event: bomb_pickup 
+Tick: 14939  Event: round_freeze_end 
+Tick: 16269 : unq -p1vot killed NOM-GamingLASTONE with a headshot using a glock
+Tick: 16375  Event: bomb_dropped 
+Tick: 16375 : NOM-Gamingkenz0o killed unq -Spinx with a headshot using a usp_silencer
+Tick: 16389  Event: bomb_pickup 
+Tick: 16421 : unq -Nertz_ killed NOM-Gamingkenz0o with a headshot using a glock
+Tick: 16957 : NOM-GamingBluePho3nix killed unq -LaNrefNi with a headshot using a usp_silencer
+Tick: 16977  Event: bomb_dropped 
+Tick: 17423 : unq -shp3x killed NOM-Gamingponkt with a headshot using a usp_silencer
+Tick: 17467  Event: bomb_pickup 
+Tick: 20527 : NOM-GamingasYLum^ killed unq -Nertz_ with a headshot using a usp_silencer
+Tick: 24677 : NOM-GamingBluePho3nix killed unq -p1vot with a headshot using a usp_silencer
+Tick: 28077  Event: bomb_beginplant 
+Tick: 28541  Event: bomb_beginplant 
+Tick: 28931  Event: bomb_planted 
+Tick: 29143 : unq -shp3x killed NOM-GamingBluePho3nix with a headshot using a usp_silencer
+Tick: 30843  Event: cs_pre_restart 
+Tick: 30886  Event: bomb_pickup 
+Tick: 30886  Event: round_start 
+Tick: 31013  Event: bomb_dropped 
+Tick: 32801  Event: round_freeze_end 
+Tick: 33751  Event: bomb_pickup 
+Tick: 35819 : unq -Nertz_ killed NOM-GamingasYLum^ with a headshot using a mp7
+Tick: 35913  Event: bomb_beginplant 
+Tick: 36303  Event: bomb_planted 
+Tick: 37069 : unq -shp3x killed NOM-GamingBluePho3nix using a ak47
+Tick: 38225 : NOM-Gamingponkt killed unq -Nertz_ using a usp_silencer
+Tick: 38495 : unq -Spinx killed NOM-Gamingponkt using a mac10
+Tick: 39109 : NOM-Gamingkenz0o killed unq -Spinx with a headshot using a usp_silencer
+Tick: 39523 : NOM-GamingLASTONE killed unq -LaNrefNi using a deagle
+Tick: 39697 : unq -shp3x killed NOM-GamingLASTONE with a headshot using a ak47
+Tick: 41115 : unq -shp3x killed NOM-Gamingkenz0o using a mac10
+Tick: 41115  Event: round_end 
+Tick: 41555  Event: bomb_exploded 
+Tick: 41717  Event: cs_pre_restart 
+Tick: 41755  Event: bomb_pickup 
+Tick: 41755  Event: round_start 
+Tick: 42221  Event: bomb_dropped 
+Tick: 42301  Event: bomb_pickup 
+Tick: 43675  Event: round_freeze_end 
+Tick: 44157  Event: bomb_dropped 
+Tick: 45193 : unq -Spinx killed NOM-GamingasYLum^ with a headshot using a ak47
+Tick: 45347 : NOM-GamingLASTONE killed unq -Spinx using a m4a1
+Tick: 45601 : unq -shp3x killed NOM-GamingLASTONE using a ak47
+Tick: 45779 : NOM-Gamingponkt killed unq -shp3x with a headshot using a m4a1
+Tick: 45917 : NOM-Gamingponkt killed unq -LaNrefNi with a headshot using a m4a1
+Tick: 46315 : unq -Nertz_ killed NOM-Gamingkenz0o using a mp7
+Tick: 46507 : unq -p1vot killed NOM-Gamingponkt using a mp7
+Tick: 48265  Event: bomb_pickup 
+Tick: 48691 : NOM-GamingBluePho3nix killed unq -Nertz_ with a headshot using a m4a1
+Tick: 51769  Event: bomb_beginplant 
+Tick: 52159  Event: bomb_planted 
+Tick: 54677  Event: bomb_begindefuse 
+Tick: 54971 : unq -p1vot killed NOM-GamingBluePho3nix using a m4a1
+Tick: 54971  Event: round_end 
+Tick: 55577  Event: cs_pre_restart 
+Tick: 55615  Event: bomb_pickup 
+Tick: 55615  Event: round_start 
+Tick: 55846  Event: bomb_dropped 
+Tick: 55856  Event: bomb_pickup 
+Tick: 56410  Event: bomb_dropped 
+Tick: 56422  Event: bomb_pickup 
+Tick: 56532  Event: bomb_dropped 
+Tick: 56540  Event: bomb_pickup 
+Tick: 56896  Event: bomb_dropped 
+Tick: 56908  Event: bomb_pickup 
+Tick: 57234  Event: bomb_dropped 
+Tick: 57242  Event: bomb_pickup 
+Tick: 57366  Event: bomb_dropped 
+Tick: 57536  Event: round_freeze_end 
+Tick: 57664  Event: bomb_pickup 
+Tick: 58146 : NOM-GamingBluePho3nix killed unq -shp3x with a headshot using a ssg08
+Tick: 61712 : unq -Spinx killed NOM-Gamingkenz0o using a mac10
+Tick: 62258  Event: bomb_beginplant 
+Tick: 62544 : unq -LaNrefNi killed NOM-GamingLASTONE with a headshot using a awp
+Tick: 62742 : unq -p1vot killed NOM-GamingBluePho3nix with a headshot using a m4a1
+Tick: 62970 : unq -Spinx killed NOM-Gamingponkt with a headshot using a mac10
+Tick: 63198  Event: bomb_beginplant 
+Tick: 63590  Event: bomb_planted 
+Tick: 63651 : unq -LaNrefNi killed NOM-GamingasYLum^ using a awp
+Tick: 63651  Event: round_end 
+Tick: 64251  Event: cs_pre_restart 
+Tick: 64289  Event: bomb_pickup 
+Tick: 64289  Event: round_start 
+Tick: 65703  Event: bomb_dropped 
+Tick: 66209  Event: round_freeze_end 
+Tick: 66333  Event: bomb_pickup 
+Tick: 69287 : NOM-Gamingkenz0o killed unq -Nertz_ using a awp
+Tick: 69311  Event: bomb_dropped 
+Tick: 69311 : NOM-GamingBluePho3nix killed unq -Spinx using a m4a1
+Tick: 69515 : unq -shp3x killed NOM-GamingBluePho3nix using a awp
+Tick: 70065 : NOM-Gamingkenz0o killed unq -shp3x using a awp
+Tick: 70585 : unq -p1vot killed NOM-Gamingkenz0o using a g3sg1
+Tick: 74109  Event: bomb_pickup 
+Tick: 74645  Event: bomb_beginplant 
+Tick: 74987  Event: bomb_dropped 
+Tick: 75185 : NOM-GamingLASTONE killed unq -p1vot using a m4a1
+Tick: 75477 : NOM-GamingasYLum^ killed unq -LaNrefNi with a headshot using a m4a1
+Tick: 75477  Event: round_end 
+Tick: 76079  Event: cs_pre_restart 
+Tick: 76117  Event: bomb_pickup 
+Tick: 76117  Event: round_start 
+Tick: 78038  Event: round_freeze_end 
+Tick: 78202  Event: bomb_dropped 
+Tick: 78650  Event: bomb_pickup 
+Tick: 82261  Event: bomb_dropped 
+Tick: 82261 : NOM-Gamingkenz0o killed unq -Spinx using a awp
+Tick: 82497  Event: bomb_pickup 
+Tick: 83137 : unq -LaNrefNi killed NOM-Gamingponkt with a headshot using a ak47
+Tick: 83189 : NOM-GamingBluePho3nix killed unq -shp3x using a m4a1
+Tick: 83339 : NOM-Gamingkenz0o killed unq -p1vot using a awp
+Tick: 83449 : unq -Nertz_ killed NOM-GamingBluePho3nix using a ak47
+Tick: 83949 : NOM-Gamingkenz0o killed unq -LaNrefNi using a awp
+Tick: 83971 : unq -Nertz_ killed NOM-Gamingkenz0o with a headshot using a ak47
+Tick: 84255  Event: bomb_beginplant 
+Tick: 84645  Event: bomb_planted 
+Tick: 86751 : unq -Nertz_ killed NOM-GamingasYLum^ with a headshot using a ak47
+Tick: 86951 : unq -Nertz_ killed NOM-GamingLASTONE using a ak47
+Tick: 86951  Event: round_end 
+Tick: 87557  Event: cs_pre_restart 
+Tick: 87600  Event: bomb_pickup 
+Tick: 87600  Event: round_start 
+Tick: 87795  Event: bomb_dropped 
+Tick: 87857  Event: bomb_pickup 
+Tick: 88511  Event: bomb_dropped 
+Tick: 89514  Event: round_freeze_end 
+Tick: 89554  Event: bomb_pickup 
+Tick: 90264 : unq -shp3x killed NOM-GamingasYLum^ using a awp
+Tick: 91598  Event: bomb_dropped 
+Tick: 91724 : unq -Nertz_ killed NOM-GamingBluePho3nix using a ak47
+Tick: 91788 : unq -Nertz_ killed NOM-GamingLASTONE using a ak47
+Tick: 92488 : unq -Nertz_ killed NOM-Gamingponkt using a ak47
+Tick: 92722 : unq -LaNrefNi killed NOM-Gamingkenz0o with a headshot using a galilar
+Tick: 92722  Event: round_end 
+Tick: 93324  Event: cs_pre_restart 
+Tick: 93362  Event: bomb_pickup 
+Tick: 93362  Event: round_start 
+Tick: 95282  Event: round_freeze_end 
+Tick: 96762  Event: bomb_dropped 
+Tick: 97868 : unq -Nertz_ killed NOM-Gamingponkt with a headshot using a ak47
+Tick: 98508 : NOM-Gamingkenz0o killed unq -shp3x with a headshot using a p250
+Tick: 98730 : unq -Nertz_ killed NOM-GamingasYLum^ with a headshot using a ak47
+Tick: 99366 : NOM-GamingLASTONE killed unq -LaNrefNi using a p250
+Tick: 99426  Event: bomb_pickup 
+Tick: 99524 : NOM-Gamingkenz0o killed unq -p1vot using a p250
+Tick: 99880 : unq -Nertz_ killed NOM-GamingBluePho3nix using a ak47
+Tick: 100418 : NOM-Gamingkenz0o killed unq -Nertz_ using a awp
+Tick: 101604  Event: bomb_dropped 
+Tick: 101604 : NOM-Gamingkenz0o killed unq -Spinx using a awp
+Tick: 101604  Event: round_end 
+Tick: 102212  Event: cs_pre_restart 
+Tick: 102255  Event: bomb_pickup 
+Tick: 102255  Event: round_start 
+Tick: 103467  Event: bomb_dropped 
+Tick: 104169  Event: round_freeze_end 
+Tick: 104283  Event: bomb_pickup 
+Tick: 105669 : unq -p1vot killed NOM-Gamingponkt with a headshot using a ak47
+Tick: 106081  Event: bomb_dropped 
+Tick: 106101  Event: bomb_pickup 
+Tick: 106873  Event: bomb_dropped 
+Tick: 108065  Event: bomb_pickup 
+Tick: 110793 : unq -shp3x killed NOM-GamingasYLum^ using a awp
+Tick: 112359 : unq -Spinx killed NOM-GamingLASTONE using a ak47
+Tick: 113873  Event: bomb_beginplant 
+Tick: 114263  Event: bomb_planted 
+Tick: 114481 : NOM-Gamingkenz0o killed unq -LaNrefNi with a headshot using a awp
+Tick: 114911 : unq -Nertz_ killed NOM-Gamingkenz0o with a headshot using a ak47
+Tick: 119517  Event: bomb_exploded 
+Tick: 119517  Event: round_end 
+Tick: 120117  Event: cs_pre_restart 
+Tick: 120159  Event: bomb_pickup 
+Tick: 120159  Event: round_start 
+Tick: 122826  Event: bomb_dropped 
+Tick: 122838  Event: bomb_pickup 
+Tick: 125962  Event: round_freeze_end 
+Tick: 128054 : NOM-GamingBluePho3nix killed unq -Nertz_ with a headshot using a aug
+Tick: 130244  Event: bomb_beginplant 
+Tick: 130634  Event: bomb_planted 
+Tick: 132532 : NOM-Gamingponkt killed unq -Spinx using a ak47
+Tick: 133654 : unq -p1vot killed NOM-GamingasYLum^ using a ak47
+Tick: 133764 : unq -LaNrefNi killed NOM-Gamingkenz0o using a ak47
+Tick: 133790 : unq -shp3x killed NOM-GamingBluePho3nix using a awp
+Tick: 133802 : unq -LaNrefNi killed NOM-GamingLASTONE using a ak47
+Tick: 134850 : unq -p1vot killed NOM-Gamingponkt with a headshot using a ak47
+Tick: 134850  Event: round_end 
+Tick: 135452  Event: cs_pre_restart 
+Tick: 135490  Event: bomb_pickup 
+Tick: 135490  Event: round_start 
+Tick: 135704  Event: bomb_dropped 
+Tick: 137410  Event: round_freeze_end 
+Tick: 137462  Event: bomb_pickup 
+Tick: 137598  Event: bomb_dropped 
+Tick: 137684  Event: bomb_pickup 
+Tick: 140374  Event: bomb_dropped 
+Tick: 140450  Event: bomb_pickup 
+Tick: 140722 : NOM-Gamingkenz0o killed unq -p1vot using a awp
+Tick: 140954  Event: bomb_dropped 
+Tick: 141262  Event: bomb_pickup 
+Tick: 143460 : unq -shp3x killed NOM-Gamingponkt using a awp
+Tick: 144830 : NOM-GamingBluePho3nix killed unq -LaNrefNi using a aug
+Tick: 144894 : unq -Nertz_ killed NOM-GamingBluePho3nix with a headshot using a ak47
+Tick: 145058 : NOM-Gamingkenz0o killed unq -Nertz_ using a awp
+Tick: 146526 : NOM-GamingasYLum^ killed unq -shp3x using a awp
+Tick: 148728 : unq -Spinx killed NOM-GamingasYLum^ using a ak47
+Tick: 149216 : unq -Spinx killed NOM-Gamingkenz0o using a ak47
+Tick: 150222  Event: bomb_beginplant 
+Tick: 150612  Event: bomb_planted 
+Tick: 151405 : NOM-GamingLASTONE killed unq -Spinx with a headshot using a ak47
+Tick: 152519  Event: bomb_begindefuse 
+Tick: 153805  Event: bomb_defused 
+Tick: 153805  Event: round_end 
+Tick: 154407  Event: cs_pre_restart 
+Tick: 154450  Event: bomb_pickup 
+Tick: 154450  Event: round_start 
+Tick: 156180  Event: bomb_dropped 
+Tick: 156284  Event: bomb_pickup 
+Tick: 156364  Event: round_freeze_end 
+Tick: 158188 : NOM-Gamingkenz0o killed unq -LaNrefNi using a awp
+Tick: 158434 : NOM-Gamingkenz0o killed unq -Spinx using a awp
+Tick: 158548 : unq -p1vot killed NOM-Gamingkenz0o with a headshot using a ak47
+Tick: 158670 : unq -Nertz_ killed NOM-Gamingponkt with a headshot using a ak47
+Tick: 159186 : NOM-GamingasYLum^ killed unq -Nertz_ using a famas
+Tick: 159554 : unq -p1vot killed NOM-GamingBluePho3nix with a headshot using a ak47
+Tick: 160572 : unq -shp3x killed NOM-GamingasYLum^ using a awp
+Tick: 163216  Event: bomb_beginplant 
+Tick: 164024  Event: bomb_beginplant 
+Tick: 164414  Event: bomb_planted 
+Tick: 165387 : unq -p1vot killed NOM-GamingLASTONE with a headshot using a ak47
+Tick: 165387  Event: round_end 
+Tick: 165987  Event: cs_pre_restart 
+Tick: 166025  Event: bomb_pickup 
+Tick: 166025  Event: round_start 
+Tick: 166198  Event: bomb_dropped 
+Tick: 167946  Event: round_freeze_end 
+Tick: 168146  Event: bomb_pickup 
+Tick: 169010  Event: bomb_dropped 
+Tick: 169542  Event: bomb_pickup 
+Tick: 169640 : unq -Nertz_ killed NOM-Gamingponkt using a mp7
+Tick: 170094 : unq -Nertz_ killed NOM-GamingLASTONE with a headshot using a glock
+Tick: 170744 : unq -LaNrefNi killed NOM-GamingasYLum^ with a headshot using a ak47
+Tick: 170910 : unq -LaNrefNi killed NOM-GamingBluePho3nix with a headshot using a ak47
+Tick: 171153 : unq -Spinx killed NOM-Gamingkenz0o with a headshot using a ak47
+Tick: 171153  Event: round_end 
+Tick: 171493  Event: bomb_dropped 
+Tick: 171757  Event: cs_pre_restart 
+Tick: 171799  Event: bomb_pickup 
+Tick: 171799  Event: round_start 
+Tick: 172214  Event: bomb_dropped 
+Tick: 172226  Event: bomb_pickup 
+Tick: 173392  Event: bomb_dropped 
+Tick: 173714  Event: round_freeze_end 
+Tick: 173896  Event: bomb_pickup 
+Tick: 177096 : unq -LaNrefNi killed NOM-GamingLASTONE with a headshot using a ak47
+Tick: 177334 : unq -Spinx killed NOM-Gamingkenz0o with a headshot using a ak47
+Tick: 178774 : unq -Spinx killed NOM-GamingBluePho3nix with a headshot using a ak47
+Tick: 179418 : unq -LaNrefNi killed NOM-GamingasYLum^ using a ak47
+Tick: 179722 : NOM-Gamingponkt killed unq -LaNrefNi with a headshot using a deagle
+Tick: 180288 : unq -p1vot killed NOM-Gamingponkt using a m4a1
+Tick: 180288  Event: round_end 
+Tick: 180890  Event: cs_pre_restart 
+Tick: 180928  Event: bomb_pickup 
+Tick: 180928  Event: round_start 
+Tick: 182848  Event: round_freeze_end 
+Tick: 183306 : unq -shp3x killed NOM-GamingBluePho3nix with a headshot using a g3sg1
+Tick: 183594 : unq -shp3x killed NOM-Gamingkenz0o with a headshot using a g3sg1
+Tick: 184686 : unq -Spinx killed NOM-GamingasYLum^ using a g3sg1
+Tick: 185680 : unq -LaNrefNi killed NOM-Gamingponkt using a ak47
+Tick: 186344 : NOM-GamingLASTONE killed unq -shp3x with a headshot using a m4a1
+Tick: 186372  Event: bomb_beginplant 
+Tick: 186762  Event: bomb_planted 
+Tick: 187814 : unq -p1vot killed NOM-GamingLASTONE with a headshot using a ak47
+Tick: 187814  Event: round_end 
+Tick: 188422  Event: cs_pre_restart 
+Tick: 188460  Event: bomb_pickup 
+Tick: 188460  Event: round_start 
+Tick: 188469  Event: round_freeze_end 
+Tick: 190041 : unq -shp3x killed NOM-Gamingponkt with a headshot using a awp
+Tick: 190677 : NOM-GamingLASTONE killed unq -shp3x with a headshot using a awp
+Tick: 190967 : unq -LaNrefNi killed NOM-GamingasYLum^ using a awp
+Tick: 191185 : NOM-GamingLASTONE killed unq -LaNrefNi using a awp
+Tick: 191631 : NOM-GamingLASTONE killed unq -Nertz_ using a awp
+Tick: 191813 : NOM-Gamingkenz0o killed unq -Spinx with a headshot using a glock
+Tick: 193173  Event: bomb_beginplant 
+Tick: 193563  Event: bomb_planted 
+Tick: 196053 : NOM-GamingLASTONE killed unq -p1vot using a awp
+Tick: 196053  Event: round_end 
+Tick: 196657  Event: cs_pre_restart 
+Tick: 196701  Event: bomb_pickup 
+Tick: 196701  Event: round_start 
+Tick: 196701  Event: round_freeze_end 
+Tick: 197634 : unq -Nertz_ killed unq -p1vot with a headshot using a m4a1
+Tick: 197908 : unq -LaNrefNi killed unq -Nertz_ with a headshot using a deagle
+Tick: 198696 : unq -LaNrefNi killed unq -Spinx with a headshot using a deagle
+Tick: 198976 : unq -shp3x killed NOM-Gamingkenz0o using a usp_silencer
+Tick: 199000  Event: cs_pre_restart 
+Tick: 199038  Event: bomb_pickup 
+Tick: 199038  Event: round_start 
+Tick: 199130  Event: cs_pre_restart 
+Tick: 199173  Event: bomb_pickup 
+Tick: 199173  Event: round_start 
+Tick: 199644  Event: cs_pre_restart 
+Tick: 199687  Event: bomb_pickup 
+Tick: 199687  Event: round_start 
+Tick: 200512  Event: bomb_dropped 
+Tick: 201602  Event: round_freeze_end 
+Tick: 201632  Event: bomb_pickup 
+Tick: 205144 : NOM-GamingasYLum^ killed unq -LaNrefNi with a headshot using a p250
+Tick: 205946 : NOM-GamingasYLum^ killed unq -Nertz_ with a headshot using a p250
+Tick: 206510  Event: bomb_dropped 
+Tick: 206510 : unq -Spinx killed NOM-Gamingkenz0o with a headshot using a usp_silencer
+Tick: 206728 : unq -shp3x killed NOM-GamingasYLum^ using a usp_silencer
+Tick: 206738 : unq -p1vot killed NOM-GamingLASTONE with a headshot using a usp_silencer
+Tick: 206794 : NOM-Gamingponkt killed unq -Spinx with a headshot using a glock
+Tick: 206832 : NOM-GamingBluePho3nix killed unq -p1vot with a headshot using a glock
+Tick: 207268  Event: bomb_pickup 
+Tick: 207660  Event: bomb_beginplant 
+Tick: 208750  Event: bomb_beginplant 
+Tick: 209326 : NOM-GamingBluePho3nix killed unq -shp3x using a usp_silencer
+Tick: 209326  Event: round_end 
+Tick: 209550  Event: bomb_beginplant 
+Tick: 209932  Event: cs_pre_restart 
+Tick: 209940  Event: bomb_planted 
+Tick: 209970  Event: bomb_pickup 
+Tick: 209970  Event: round_start 
+Tick: 211891  Event: round_freeze_end 
+Tick: 212511 : unq -p1vot killed NOM-GamingBluePho3nix with a headshot using a ssg08
+Tick: 213531 : unq -Nertz_ killed NOM-GamingasYLum^ using a cz75a
+Tick: 218443  Event: bomb_dropped 
+Tick: 218685  Event: bomb_pickup 
+Tick: 219379  Event: bomb_beginplant 
+Tick: 219677  Event: bomb_dropped 
+Tick: 219677 : unq -shp3x killed NOM-Gamingkenz0o using a ssg08
+Tick: 220683 : unq -p1vot killed NOM-GamingLASTONE using a ssg08
+Tick: 221281 : unq -Spinx killed NOM-Gamingponkt with a headshot using a deagle
+Tick: 221281  Event: round_end 
+Tick: 221887  Event: cs_pre_restart 
+Tick: 221925  Event: bomb_pickup 
+Tick: 221925  Event: round_start 
+Tick: 222137  Event: bomb_dropped 
+Tick: 222147  Event: bomb_pickup 
+Tick: 223845  Event: round_freeze_end 
+Tick: 225499 : unq -Spinx killed NOM-GamingasYLum^ with a headshot using a galilar
+Tick: 225637 : NOM-Gamingponkt killed unq -Spinx with a headshot using a cz75a
+Tick: 225687 : unq -shp3x killed NOM-Gamingponkt with a headshot using a ssg08
+Tick: 226381 : unq -shp3x killed NOM-Gamingkenz0o with a headshot using a usp_silencer
+Tick: 226685 : NOM-GamingBluePho3nix killed unq -shp3x using a tec9
+Tick: 226781 : unq -Nertz_ killed NOM-GamingBluePho3nix using a m4a1
+Tick: 226948  Event: bomb_dropped 
+Tick: 226948 : unq -p1vot killed NOM-GamingLASTONE with a headshot using a ssg08
+Tick: 226948  Event: round_end 
+Tick: 227552  Event: cs_pre_restart 
+Tick: 227590  Event: bomb_pickup 
+Tick: 227590  Event: round_start 
+Tick: 227745  Event: bomb_dropped 
+Tick: 227823  Event: bomb_pickup 
+Tick: 229511  Event: round_freeze_end 
+Tick: 232321  Event: bomb_dropped 
+Tick: 232321 : unq -Spinx killed NOM-Gamingponkt using a m4a1
+Tick: 232434  Event: bomb_pickup 
+Tick: 232448  Event: bomb_dropped 
+Tick: 232448 : unq -Spinx killed NOM-GamingasYLum^ using a m4a1
+Tick: 232641 : unq -Spinx killed NOM-Gamingkenz0o using a m4a1
+Tick: 232733 : unq -p1vot killed NOM-GamingBluePho3nix using a tec9
+Tick: 232815 : NOM-GamingLASTONE killed unq -p1vot using a p250
+Tick: 233378 : unq -Spinx killed NOM-GamingLASTONE using a usp_silencer
+Tick: 233378  Event: round_end 
+Tick: 233982  Event: cs_pre_restart 
+Tick: 234020  Event: bomb_pickup 
+Tick: 234020  Event: round_start 
+Tick: 235940  Event: round_freeze_end 
+Tick: 236576  Event: bomb_dropped 
+Tick: 236766  Event: bomb_pickup 
+Tick: 236874  Event: bomb_dropped 
+Tick: 237084  Event: bomb_pickup 
+Tick: 238452 : NOM-GamingasYLum^ killed unq -shp3x with a headshot using a ak47
+Tick: 238574  Event: bomb_dropped 
+Tick: 238670 : unq -Nertz_ killed NOM-GamingasYLum^ using a m4a1
+Tick: 239230 : NOM-Gamingponkt killed unq -Nertz_ with a headshot using a ak47
+Tick: 239700 : unq -p1vot killed NOM-Gamingponkt using a awp
+Tick: 240654 : unq -p1vot killed NOM-GamingBluePho3nix using a awp
+Tick: 241442  Event: bomb_pickup 
+Tick: 242122 : unq -p1vot killed NOM-GamingLASTONE using a awp
+Tick: 246387  Event: bomb_dropped 
+Tick: 246387 : unq -p1vot killed NOM-Gamingkenz0o using a awp
+Tick: 246387  Event: round_end 
+Tick: 246959 : unq -Spinx killed  using a world
+Tick: 246989  Event: cs_pre_restart 
+Tick: 247029  Event: round_start 
+Tick: 247029 : unq -Nertz_ killed  using a world
+Tick: 247029 : unq -LaNrefNi killed  using a world
+Tick: 247029  Event: round_freeze_end 
+Tick: 247233 : unq -shp3x killed  using a world
+Tick: 251937 : unq -p1vot killed  using a world
+Tick: 251937  Event: round_end 
+Tick: 252539  Event: cs_pre_restart 
+Tick: 252577  Event: round_start 
+Tick: 252577  Event: round_freeze_end
