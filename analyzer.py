@@ -15,7 +15,7 @@ def main():
 	rounds = file_to_rounds(args.file)
 
 	if args.round:
-		round = rounds[args.round]
+		round = rounds[args.round-1]
 
 		print "\n%s \t%s\n" % (round, round_to_kills(round))
 		for event in round.get_real_events():
