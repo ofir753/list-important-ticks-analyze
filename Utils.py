@@ -60,14 +60,22 @@ def find_pistol_round(rounds):
 
 	return rounds[0]
 
-def set_pistol_round(rounds):
-
+def fix_rounds(rounds):
 	pistol_round = find_pistol_round(rounds)
 	rounds = rounds[rounds.index(pistol_round):]
+	rounds = filter(lambda round: len(round.get_real_events()) > 0, rounds)
 
 	counter = 1
 	for round in rounds:
 		round.set_roundnum(counter)
 		counter += 1
+
+
+	return rounds
+
+def file_to_rounds(filename):
+	events = file_to_events(filename)
+	rounds = extract_rounds(events)
+	rounds = fix_rounds(rounds)
 
 	return rounds

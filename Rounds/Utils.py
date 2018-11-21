@@ -9,6 +9,7 @@ def round_to_kills(round):
 
 	kills = filter(lambda event: isinstance(event, Kill), round.events)
 
+
 	for kill in kills:
 		player_to_kills[kill.attacker] += 1
 		if kill.hs:
