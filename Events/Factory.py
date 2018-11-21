@@ -3,7 +3,7 @@
 from Event import Event
 from Kill import Kill
 
-class Tick(object):
+class Factory(object):
 
 	@staticmethod
 	def factory(line):
@@ -19,7 +19,8 @@ class Tick(object):
 		parts = map(lambda part: part.strip(), parts)
 
 		if "Event" in parts[1]:
-			return Event(parts)
+			e = Event()
+			e.init_event_by_parts(parts)
+			return e
 		else:
 			return Kill(parts)
-

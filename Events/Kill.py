@@ -1,7 +1,11 @@
 
-class Kill():
+from Event import Event
+from EEvent import EEvent
+
+class Kill(Event):
 	def __init__(self, parts):
 		self.tick = int(parts[1])
+		self.type = EEvent.PlayerDeath
 		killstring = parts[2]
 
 		if "with" in killstring:

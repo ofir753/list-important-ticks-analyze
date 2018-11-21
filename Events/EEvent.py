@@ -11,7 +11,8 @@ cs_events_strings = [
 "bomb_planted",
 "bomb_begindefuse",
 "bomb_defused",
-"bomb_exploded"
+"bomb_exploded",
+"player_death"
 ]
 
 to_string_events = [
@@ -26,6 +27,7 @@ to_string_events = [
 "Bomb BeingDefuse",
 "Bomb Defused",
 "Bomb Exploded",
+"Player Death"
 "Undefined"
 ]
 
@@ -41,7 +43,8 @@ class EEvent(IntEnum):
 	BombBeingDefuse = 8
 	BombDefused = 9
 	BombExploded = 10
-	Undefined = 11
+	PlayerDeath = 11
+	Undefined = 12
 
 def event_from_string(string):
 	if string not in cs_events_strings:

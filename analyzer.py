@@ -1,45 +1,44 @@
 #!/usr/bin/python
 
-from Ticks import Tick, Event, Kill
-from Ticks.EEvent import *
+from Events import Factory, Event, Kill
+from Events.EEvent import *
 from Rounds import Round, Score
 from argparse import ArgumentParser
 
-def file_to_ticks(filename):
-	ticks = []
+def file_to_events(filename):
+	events = []
 
 	with open(filename) as f:
 		lines = f.readlines()
 
 		for line in lines:
-			ticks.append(Tick.factory(line))
+			events.append(Factory.factory(line))
 
-	return ticks
+	return events
 
-def extract_rounds(ticks):
+def extract_rounds(events):
 	rounds = []
 
 	round_num = 1
 	current_round = Round(0, round_num)
 
-	for tick in ticks:
-		if isinstance(tick, Event):
-			if tick.event == EEvent.RoundStart:
-				current_round = Round(tick.tick, round_num)
+	for event in events:
+		if event.type == EEvent.RoundStart:
+			current_round = Round(event.tick, round_num)
 
-			elif tick.event == EEvent.RoundPreRestart:
-				current_round.set_end(tick.tick)
+		elif event.type == EEvent.RoundPreRestart:
+			current_round.set_end(event.tick)
 
-				# In case of restart round
-				if current_round in rounds:
-					rounds.remove(current_round)
-				else:
-					round_num += 1
-					
-				rounds.append(current_round)
+			# In case of restart round
+			if current_round in rounds:
+				rounds.remove(current_round)
+			else:
+				round_num += 1
+				
+			rounds.append(current_round)
 
 		
-		current_round.add_tick(tick)
+		current_round.add_event(event)
 
 	return rounds
 
@@ -54,7 +53,7 @@ pistols = [
 
 def find_pistol_round(rounds):
 	for round in rounds:
-		kills = filter(lambda tick: isinstance(tick, Kill), round.ticks)
+		kills = filter(lambda event: isinstance(event, Kill), round.events)
 		weapons = map(lambda kill: kill.weapon, kills)
 		weapons = filter(lambda weapon: weapon != "world", weapons)
 		not_pistols = filter(lambda weapon: weapon not in pistols, weapons)
@@ -77,8 +76,8 @@ def set_pistol_round(rounds):
 	return rounds
 
 def analyze(filename):
-	ticks = file_to_ticks(filename)
-	rounds = extract_rounds(ticks)
+	events = file_to_events(filename)
+	rounds = extract_rounds(events)
 	rounds = set_pistol_round(rounds)
 
 
