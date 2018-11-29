@@ -45,6 +45,9 @@ pistols = [
 "glock",
 "hkp2000",
 "p2000",
+"p250",
+"deagle",
+"tec9",
 "world"
 ]
 
