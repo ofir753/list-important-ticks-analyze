@@ -44,10 +44,13 @@ pistols = [
 "usp_silencer",
 "glock",
 "hkp2000",
-"p2000",
 "p250",
 "deagle",
 "tec9",
+"cz75a",
+"fiveseven",
+"elite",
+"revolver",
 "world"
 ]
 
