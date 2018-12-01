@@ -9,11 +9,12 @@ def main():
 	parser = ArgumentParser(description='Analayze demo from csgo by demo_listimportantticks')
 	parser.add_argument('file', type=str, help='important ticks file')
 	parser.add_argument('-r', '--round', type=int, help='print specific round flow')
+	parser.add_argument('--pistol', type=int, help='"round_start" Tick of the pistol round')
 
 	args = parser.parse_args()
 
-	rounds = file_to_rounds(args.file)
-
+	rounds = file_to_rounds(args.file, args.pistol)
+	
 	if args.round:
 		round = rounds[args.round-1]
 

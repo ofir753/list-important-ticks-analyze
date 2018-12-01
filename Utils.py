@@ -63,8 +63,17 @@ def find_pistol_round(rounds):
 
 	return rounds[0]
 
-def fix_rounds(rounds):
-	pistol_round = find_pistol_round(rounds)
+def find_pistol_round_by_tick(rounds, tick):
+	rounds = filter(lambda round: round.start_tick == tick, rounds)
+
+	return rounds[0]
+
+def fix_rounds(rounds, pistol_round_tick):
+	if pistol_round_tick == None:
+		pistol_round = find_pistol_round(rounds)
+	else:
+		pistol_round = find_pistol_round_by_tick(rounds, pistol_round_tick)
+
 	rounds = rounds[rounds.index(pistol_round):]
 	rounds = filter(lambda round: len(round.get_real_events()) > 0, rounds)
 
@@ -76,9 +85,9 @@ def fix_rounds(rounds):
 
 	return rounds
 
-def file_to_rounds(filename):
+def file_to_rounds(filename, pistol_round_tick=None):
 	events = file_to_events(filename)
 	rounds = extract_rounds(events)
-	rounds = fix_rounds(rounds)
+	rounds = fix_rounds(rounds, pistol_round_tick)
 
 	return rounds
